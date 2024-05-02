@@ -1,16 +1,10 @@
 # lessone3
  
-***88jdsfhgsjdgf***
-adf
-f<br/>
+**Ниже** приведены примеры использования 
+***Markdown***[6]
 
-a
-_afs_
+Вот [ссылка на википедию Markdown](https://ru.wikipedia.org/wiki/Заглавная_страница)
 
-- gthdsq geyr
-- второй 
-- третий
-   -подпункт списка
-4. четвертый
 
-[ссылка help.md]()
+
+
